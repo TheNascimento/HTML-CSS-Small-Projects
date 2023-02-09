@@ -1,0 +1,5 @@
+Cor: #1EBB05
+
+Fonte dos caracteres código html (inserir no <head>): <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+Fonte dos caracteres código css: font-family: 'Roboto', sans-serif;
